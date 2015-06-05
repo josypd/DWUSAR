@@ -26,5 +26,11 @@ NOW THAT YOU HAVE DONE STEPS (1) AND (2) ABOVE...
 3. Start the system/run the system from the file called
    'START_HERE.py'. 
    This file is the 'starting point' of the system. 
+   
+NOTE: IF YOU ARE STILL HAVING TROUBLE CONNECTING TO THE DATABASE SERVER, 
+      CREATE A USER ACCOUNT PRIVILEDGE WITH THE FOLLOWING CREDENTIALS:
+      username: mctestdb
+      password: test
+      Host: Select the 'Any Host' option
 
 Thanks!
